@@ -1,6 +1,6 @@
 # 🧼 Chaos Coordinator Cleaning Service
 
-![Netlify Status](https://api.netlify.com/api/v1/badges/4e0d8e57-xxxx-xxxx-xxxx-xxxxxxxxxxxx/deploy-status)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4e0d8e57-6e6b-4e7e-9e8d-0c7e7e7e7e7e/deploy-status)](https://app.netlify.com/sites/chaoscoordinator/deploys)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Made With Love](https://img.shields.io/badge/Made%20with-%F0%9F%92%95-red)
 ![Built By Carmen Wheeler](https://img.shields.io/badge/Built%20By-Carmen%20Wheeler-purple)
@@ -53,7 +53,7 @@ This responsive site allows potential clients to:
 Web Developer & Designer   
 🎯 Focus: Clean code, modern design, intuitive UX  
 📩 Contact: outsideofemit@gmail.com  
-🌐 Portfolio: (https://cwport.netlify.app/)
+🌐 Portfolio: [cwport.netlify.app](https://cwport.netlify.app/)
 
 I specialize in helping small business owners transform their vision into elegant, easy-to-navigate websites. If you’re ready to bring your brand to life online — I’m open for new projects!
 
@@ -61,11 +61,10 @@ I specialize in helping small business owners transform their vision into elegan
 
 ## 📸 Screenshots
 
-# Desktop
+### Desktop
 ![](./assets/CCScreenshot.png)
-# Mobile
+### Mobile
 ![](./assets/CCMobileScr.jpeg)
-
 
 ---
 
