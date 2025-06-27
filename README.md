@@ -1,6 +1,4 @@
 # 🧼 Chaos Coordinator Cleaning Service
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4e0d8e57-6e6b-4e7e-9e8d-0c7e7e7e7e7e/deploy-status)](https://app.netlify.com/sites/chaoscoordinator/deploys)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Made With Love](https://img.shields.io/badge/Made%20with-%F0%9F%92%95-red)
 ![Built By Carmen Wheeler](https://img.shields.io/badge/Built%20By-Carmen%20Wheeler-purple)
@@ -64,7 +62,7 @@ I specialize in helping small business owners transform their vision into elegan
 ### Desktop
 ![](./assets/CCScreenshot.png)
 ### Mobile
-![](./assets/CCMobileScr.jpeg)
+<img src="./assets/CCMobileScr.jpeg" alt="Mobile view" width="300"/>
 
 ---
 
